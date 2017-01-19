@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HappyAlgo#1_ReverseString/HappyAlgo#1_ReverseString.iml" filepath="$PROJECT_DIR$/HappyAlgo#1_ReverseString/HappyAlgo#1_ReverseString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyAlgo#2_BinaryTree/HappyAlgo#2_BinaryTree.iml" filepath="$PROJECT_DIR$/HappyAlgo#2_BinaryTree/HappyAlgo#2_BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyAlgo#3_ProgramP/HappyAlgo#3_ProgramP.iml" filepath="$PROJECT_DIR$/HappyAlgo#3_ProgramP/HappyAlgo#3_ProgramP.iml" />
+    </modules>
+  </component>
+</project>
