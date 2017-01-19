@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#1_ReverseString/HappyAlgo#1_ReverseString.iml" filepath="$PROJECT_DIR$/HappyAlgo#1_ReverseString/HappyAlgo#1_ReverseString.iml" />
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#2_BinaryTree/HappyAlgo#2_BinaryTree.iml" filepath="$PROJECT_DIR$/HappyAlgo#2_BinaryTree/HappyAlgo#2_BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#3_ProgramP/HappyAlgo#3_ProgramP.iml" filepath="$PROJECT_DIR$/HappyAlgo#3_ProgramP/HappyAlgo#3_ProgramP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyAlgo#4_SubsetSumProblem/HappyAlgo#4_SubsetSumProblem.iml" filepath="$PROJECT_DIR$/HappyAlgo#4_SubsetSumProblem/HappyAlgo#4_SubsetSumProblem.iml" />
     </modules>
   </component>
 </project>
