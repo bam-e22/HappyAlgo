@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#3_ProgramP/HappyAlgo#3_ProgramP.iml" filepath="$PROJECT_DIR$/HappyAlgo#3_ProgramP/HappyAlgo#3_ProgramP.iml" />
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#4_SubsetSumProblem/HappyAlgo#4_SubsetSumProblem.iml" filepath="$PROJECT_DIR$/HappyAlgo#4_SubsetSumProblem/HappyAlgo#4_SubsetSumProblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#5_LakeCounting/HappyAlgo#5_LakeCounting.iml" filepath="$PROJECT_DIR$/HappyAlgo#5_LakeCounting/HappyAlgo#5_LakeCounting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyAlgo#6_GreedyCoins/HappyAlgo#6_GreedyCoins.iml" filepath="$PROJECT_DIR$/HappyAlgo#6_GreedyCoins/HappyAlgo#6_GreedyCoins.iml" />
     </modules>
   </component>
 </project>
