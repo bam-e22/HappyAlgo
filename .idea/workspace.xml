@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26bcd00a-65f4-41d3-a68d-5c0a31a12309" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HappyAlgo#6_GreedyCoins/HappyAlgo#6_GreedyCoins.iml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HappyAlgo#7_SectionScheduling/HappyAlgo#7_SectionScheduling.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HappyAlgo#7_SectionScheduling/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HappyAlgo#8_BestCowLine/HappyAlgo#8_BestCowLine.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HappyAlgo#8_BestCowLine/src/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -20,16 +19,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HappyAlgo#7_SectionScheduling/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/HappyAlgo#8_BestCowLine/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+            <state relative-caret-position="288">
+              <caret line="18" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,6 +63,7 @@
         <option value="$PROJECT_DIR$/HappyAlgo#6_MazeShortestPath/src/Main.java" />
         <option value="$PROJECT_DIR$/HappyAlgo#6_GreedyCoins/src/Main.java" />
         <option value="$PROJECT_DIR$/HappyAlgo#7_SectionScheduling/src/Main.java" />
+        <option value="$PROJECT_DIR$/HappyAlgo#8_BestCowLine/src/Main.java" />
       </list>
     </option>
   </component>
@@ -90,6 +90,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyAlgo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HappyAlgo#8_BestCowLine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -108,35 +123,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HappyAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HappyAlgo#7_SectionScheduling" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HappyAlgo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HappyAlgo#7_SectionScheduling" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Main.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
     </panes>
   </component>
@@ -147,7 +133,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/mymac/IdeaProjects/HappyAlgo/HappyAlgo#6_GreedyCoins/src/Main.java" />
   </component>
-  <component name="RunManager" selected="Application.HappyAlgo#7">
+  <component name="RunManager" selected="Application.HappyAlgo">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -352,7 +338,7 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="HappyAlgo#7" type="Application" factoryName="Application">
+    <configuration default="false" name="HappyAlgo" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Main" />
       <option name="VM_PARAMETERS" value="" />
@@ -363,12 +349,12 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HappyAlgo#7_SectionScheduling" />
+      <module name="HappyAlgo#8_BestCowLine" />
       <envs />
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Application.HappyAlgo#7" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HappyAlgo" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -410,7 +396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485436973561</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Happy Algorithm">
+      <created>1485492854761</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1485492854761</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -552,14 +545,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HappyAlgo#7_SectionScheduling/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        <state relative-caret-position="320">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HappyAlgo#8_BestCowLine/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="44" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
