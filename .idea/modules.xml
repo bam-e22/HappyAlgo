@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#6_GreedyCoins/HappyAlgo#6_GreedyCoins.iml" filepath="$PROJECT_DIR$/HappyAlgo#6_GreedyCoins/HappyAlgo#6_GreedyCoins.iml" />
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#7_SectionScheduling/HappyAlgo#7_SectionScheduling.iml" filepath="$PROJECT_DIR$/HappyAlgo#7_SectionScheduling/HappyAlgo#7_SectionScheduling.iml" />
       <module fileurl="file://$PROJECT_DIR$/HappyAlgo#8_BestCowLine/HappyAlgo#8_BestCowLine.iml" filepath="$PROJECT_DIR$/HappyAlgo#8_BestCowLine/HappyAlgo#8_BestCowLine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HappyAlgo#9_KnapsackProblem/HappyAlgo#9_KnapsackProblem.iml" filepath="$PROJECT_DIR$/HappyAlgo#9_KnapsackProblem/HappyAlgo#9_KnapsackProblem.iml" />
     </modules>
   </component>
 </project>
