@@ -3,6 +3,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 
+/**
+ *  a^3 + b^3 = c^3 + d^3 을 만족하는 100 이하의 자연수를 모두 찾아보자
+ */
+
 public class Main {
 
     static final int MAX = 100;
