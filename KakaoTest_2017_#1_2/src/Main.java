@@ -1,5 +1,5 @@
 /**
- * 카카오 Test#1_1 다트 게임
+ * 카카오 Test#1_2 다트 게임
  */
 public class Main {
 
