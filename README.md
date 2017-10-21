@@ -52,3 +52,11 @@
 
 #### SWEA#1868
 - SW Expert Academy 1868. 파핑파핑 지뢰찾기
+
+#### SWEA#1767
+- SW Expert Academy 1767. 프로세서 연결하기
+
+#### SWEA#1949
+- SW Expert Academy 1949. 등산로 조성
+
+
